@@ -18,6 +18,8 @@ export default function Footer() {
         <div>
           contact us:0942375640
           <br />
+          name: Bereket Kibralem
+          <br />
           email:bereketKibrom56@gmail.com
         </div>
       </div>
