@@ -15,6 +15,11 @@ export default function Footer() {
           <Link to="/">Home</Link>
           <Link to="/cart">Cart</Link>
         </div>
+        <div>
+          contact us:0942375640
+          <br />
+          email:bereketKibrom56@gmail.com
+        </div>
       </div>
 
       <div className="footer-bottom">
