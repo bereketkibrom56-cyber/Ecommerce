@@ -10,7 +10,7 @@ export default function Navbar() {
     <nav className="navbar">
       <Link to="/">E-Shop</Link>
       <span>New</span>
-      <span>new git</span>
+      <span>new github</span>
 
       <div>
         <NavLink to="/">Home</NavLink>
